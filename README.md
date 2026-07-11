@@ -27,8 +27,7 @@
 
 ### Week 1:  6월 27일 토요일
 
-- [[Chpater1] 운영체제 개요](<./Chapter1/>)
+- [[Chapter1] 운영체제 개요](<./Chapter1/>)
 
 ### Week 2: 7월 11일 토요일
-- [[Chpater3] 프로세스](<./Chapter3>)
-- [[Chpater4] 스레드와 프로세스 간 통신](<./Chapter4>)
+- [[Chapter3] 프로세스](<./Chapter3>)
